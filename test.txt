@@ -1,2 +1,3 @@
 It's a whole new life!
 That's do function one.
+I wrote function 1 here.
