@@ -1,4 +1,5 @@
 It's a whole new life!
 That's do function one.
 I wrote function 1 here.
-Before fun2 branch merge ,I want to write something.
+after conflict .
+
